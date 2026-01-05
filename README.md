@@ -12,7 +12,7 @@
 
 ### ✨ Professional Profile
 
-[cite_start]I’m a Computer Science student at the University of Massachusetts Lowell [cite: 6, 7] (Class of 2026) [cite_start][cite: 8] [cite_start]with a focus on engineering scalable solutions and optimizing system performance[cite: 16, 28]. [cite_start]I enjoy building full-stack applications and exploring cloud architecture [cite: 10][cite_start], blending technical precision with the leadership experience I gained as President of the UML Filipino Club[cite: 35, 36]. [cite_start]I’m always eager to collaborate on impactful projects and tackle new challenges in software development[cite: 14, 38].
+I’m a Computer Science student at the University of Massachusetts Lowell [cite: 6, 7] (Class of 2026) [cite_start][cite: 8] [cite_start]with a focus on engineering scalable solutions and optimizing system performance[cite: 16, 28]. I enjoy building full-stack applications and exploring cloud architecture [cite: 10][cite_start], blending technical precision with the leadership experience I gained as President of the UML Filipino Club[cite: 35, 36]. [cite_start]I’m always eager to collaborate on impactful projects and tackle new challenges in software development[cite: 14, 38].
 
 ---
 
