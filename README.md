@@ -29,11 +29,10 @@ I am a Computer Science student at the **University of Massachusetts Lowell** (C
 ### 📊 Engineering Metrics
 
 <div align="center">
+  
+![Ashton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashtonroxas&show_icons=true&theme=dark&title_color=0077B5&icon_color=0077B5&hide_border=true)
 
-![Ashton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashtonroxas&show_icons=true&theme=tokyonight&title_color=0077B5&icon_color=0077B5&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtonroxas&layout=compact&theme=tokyonight&title_color=0077B5&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtonroxas&layout=compact&theme=dark&title_color=0077B5&hide_border=true)
 </div>
 
 ---
