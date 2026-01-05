@@ -30,9 +30,12 @@ I am a Computer Science student at the **University of Massachusetts Lowell** (C
 
 <div align="center">
   
-![Ashton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashtonroxas&show_icons=true&theme=dark&title_color=0077B5&icon_color=0077B5&hide_border=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtonroxas&layout=compact&theme=dark&title_color=0077B5&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashtonroxas&theme=tokyonight&hide_border=true)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashtonroxas&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
