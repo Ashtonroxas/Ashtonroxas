@@ -31,10 +31,9 @@ I am a Computer Science student at the **University of Massachusetts Lowell** (C
 
 <div align="center">
 
-![Ashton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashtonroxas&show_icons=true&theme=transparent&title_color=0077B5&text_color=ffffff&icon_color=0077B5&hide_border=true)
+![Ashton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashtonroxas&show_icons=true&theme=tokyonight&title_color=0077B5&icon_color=0077B5&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtonroxas&layout=compact&theme=transparent&title_color=0077B5&text_color=ffffff&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtonroxas&layout=compact&theme=tokyonight&title_color=0077B5&hide_border=true)
 </div>
 
 ---
