@@ -14,7 +14,7 @@
 
 ###  Profile
 
-I am a Computer Science student at the **University of Massachusetts Lowell** (Class of 2026) focused on engineering scalable solutions and optimizing system performance. I specialize in building full-stack applications and exploring cloud architecture, blending technical precision with leadership experience gained as the **President of the UML Filipino Club**. I’m always eager to collaborate on impactful projects and tackle new challenges in software development.
+Computer Science student at the **University of Massachusetts Lowell** (Class of 2026) focused on engineering scalable solutions and optimizing system performance. I specialize in building full-stack applications and exploring cloud architecture, blending technical precision with leadership experience gained as the **President of the UML Filipino Club**. I’m always eager to collaborate on impactful projects and tackle new challenges in software development.
 
 ---
 
